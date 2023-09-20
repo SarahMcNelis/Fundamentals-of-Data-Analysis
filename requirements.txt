@@ -1,0 +1,9 @@
+anaconda
+cmder
+numpy
+matplotlib.pyplot
+re
+requests
+datetime
+pandas
+urllib.requests
