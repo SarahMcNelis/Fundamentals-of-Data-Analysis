@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains the following two jupyter notebooks as part of my project for 'Fundamental of Data Analysis' module:
+This repository contains the following two jupyter notebooks as part of my project for 'Fundamentals of Data Analysis' module as part of my Higher Dilpoma in Science in Computing in Data Analytics:
 
 1. `pyplot.ipynb` contains an overview of the matplotlib pyplot package in python and an in-depth explanation of three plots.
 
@@ -153,15 +153,6 @@ You can view both notebooks on nbviewer by clicking on the following badge:
 You can view these notebooks on mybinder by clicking on this badge:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SarahMcN25/fundamentals/HEAD)
-
-
-<br>
-
-
-## Contact
-If you have any queries or if you would like to contribute to this repository please contact me on the below link:
-
-[Sarah McNelis](G00398343@gmit.ie)
 
 
 <br>
